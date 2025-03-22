@@ -7,9 +7,11 @@ FuzzyAutoBrakePlayground is an interactive SwiftUI application that demonstrates
 I created this project to dive deeper into fuzzy logic beyond what I learned in class. It's a fun way to see how the theory works in real life, letting me play around with different settings and see the results instantly. This hands-on approach helps me understand the concepts better and explore new ideas in a practical, engaging way.
 
 ## Screenshots
-//add later
+![Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-03-23 at 02 36 51](https://github.com/user-attachments/assets/2179070d-9f70-487a-a4db-3f2d19cb1f30)
+![Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-03-23 at 02 37 02](https://github.com/user-attachments/assets/bdcdf4c7-ce75-4e59-b922-51fb25167fa7)
 
 ## Theory Explanation
+
 
 ### Fuzzy Logic in Automotive Systems
 Fuzzy logic provides a way to handle imprecise data and make decisions based on "degrees of truth" rather than the strict true/false values of classical logic. In automotive braking systems, fuzzy logic can help create more natural and smooth braking behaviors that mimic human decision-making.
@@ -38,11 +40,11 @@ Fuzzy logic provides a way to handle imprecise data and make decisions based on 
   - **Simulation/**: Contains the simulation logic
     - `SimulationEngine.swift`: Manages the simulation state and controls
 
-- **Views/**: Contains UI components
-  - **Components/**: Reusable UI elements
-    - **Fuzzy/**: UI for fuzzy logic visualization and configuration
-    - **Simulations/**: Components for the simulation view
-    - **Objects/**: Visual elements for the simulation
+- **Views**: Contains UI components
+  - **Components**: Reusable UI elements
+    - **Fuzzy**: UI for fuzzy logic visualization and configuration
+    - **Simulations**: Components for the simulation view
+    - **Objects**: Visual elements for the simulation
 
 - **MyApp.swift**: The application entry point
 - **ContentView.swift**: The main view of the application
