@@ -7,8 +7,11 @@ FuzzyAutoBrakePlayground is an interactive SwiftUI application that demonstrates
 I created this project to dive deeper into fuzzy logic beyond what I learned in class. It's a fun way to see how the theory works in real life, letting me play around with different settings and see the results instantly. This hands-on approach helps me understand the concepts better and explore new ideas in a practical, engaging way.
 
 ## Screenshots
-![Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-03-23 at 02 36 51](https://github.com/user-attachments/assets/2179070d-9f70-487a-a4db-3f2d19cb1f30)
-![Simulator Screenshot - iPad Pro 13-inch (M4) - 2025-03-23 at 02 37 02](https://github.com/user-attachments/assets/bdcdf4c7-ce75-4e59-b922-51fb25167fa7)
+
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| <img src="https://github.com/user-attachments/assets/2179070d-9f70-487a-a4db-3f2d19cb1f30" width="400"> | <img src="https://github.com/user-attachments/assets/bdcdf4c7-ce75-4e59-b922-51fb25167fa7" width="400"> |
+
 
 ## Theory Explanation
 
